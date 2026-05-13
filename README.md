@@ -7,10 +7,8 @@ This document contains information on the data and codes necessary to conduct ou
 from OPEC announcements," by Diego Känzig. Much of the data and code comes directly from Diego Känzig's original replication package which can be found at https://www.openicpsr.org/openicpsr/project/122886/version/V1/view. 
 There are four main folders in our replication file. The first houses the data for our extension. The Excel files N9190US3m.xls, 
 Table_8.1_Nuclear_Energy_Overview.xlsx, and Table_10.1_Renewable_Energy_Production_and_Consumption_by_Source.xlsx contain the raw data 
-used for the extension. The file also contains .dta files that were used to merge the extended data with the author's data. 
-The second file is named Kaenzig_replication 2 and contains much of Känzi'gs original data along and codes needed to replicate the aspects of the paper we wished to highlight. The codes
-to do replicate Känzig's results and our extension are within the codes folder of this folder. The third main folder contains the replication and extension outputs and the last folder holds our code.
-This code helps combine our raw extension data with Känzig's data.
+used for the extension. The file also contains .dta files and an additional Excel file that were used to merge the extended data with the author's data. 
+The second main folder is named Kaenzig_replication 2 and contains much of Känzig's original data and codes that are needed to replicate the aspects of the paper we wished to highlight. The code that conducts our extension and the replication codes are within the codes folder of this folder. The third main folder contains the replication and extension outputs and the last folder holds our original code that helps combine our raw extension data with Känzig's data.
 
 ----------------------------------------
 #1. Data
