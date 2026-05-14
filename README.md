@@ -43,7 +43,7 @@ Each code and what it produces is listed below.
 
 Projectdataconvert.R: Converts Känzig's baseline monthly dataset to a .dta file to be used in Stata
 
-ECON523Project.do: Merges extension data with baseline monthly data
+ECON523Project.do: Merges extension data with baseline monthly data and performs transformations
 
 projectextension.m: Produces our extension results
 
