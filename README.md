@@ -13,7 +13,7 @@ The second main folder is named Kaenzig_replication 2 and contains much of Känz
 ----------------------------------------
 #1. Data
 ----------------------------------------
-Data from this replication and extension were either obtained directly from Känzig's paper or from the US Energy Information Administration. The data is monthly and all final data are 
+Data from this replication and extension were either obtained directly from Känzig's paper or from the US Energy Information Administration. The data is monthly and all final data used in the analysis are 
 contained in .mat files in either the instrument or data folder with the Kaenzig_replication 2 folder. It should be noted that we did not change any of Känzig's original data and the description 
 of our data used for the extension is below. We also how we transformed these variables for the analysis.
 
