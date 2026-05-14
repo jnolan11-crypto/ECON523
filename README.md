@@ -3,7 +3,7 @@
 Joseph Nolan and Grayson Maryanski
 
 ----------------------------------------
-This document contains information on the data and codes necessary to conduct our replication and extension of "The macroeconomic eﬀects of oil supply news: Evidence
+This document contains information on the data and codes necessary to conduct our replication and extension of "The Macroeconomic Eﬀects of Oil Supply News: Evidence
 from OPEC announcements," by Diego Känzig. Much of the data and code comes directly from Diego Känzig's original replication package which can be found at https://www.openicpsr.org/openicpsr/project/122886/version/V1/view. 
 There are four main folders in our replication file. The first houses the data for our extension. The Excel files N9190US3m.xls, 
 Table_8.1_Nuclear_Energy_Overview.xlsx, and Table_10.1_Renewable_Energy_Production_and_Consumption_by_Source.xlsx contain the raw data 
