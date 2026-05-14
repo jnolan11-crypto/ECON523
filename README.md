@@ -37,7 +37,7 @@ SOLAR: Monthly solar energy consumption (Trillion Btu). Transformations include 
 #2. Replication
 ----------------------------------------
 Matlab, R, and Stata are required to extend and replicate the paper. The code that helps combine Känzig's original data with the data from our extension is written in R and Stata. This code can be found in the Replication Code (R/Stata) folder.
-From there, Claude was used to convert an excel file with the merged dataset into eight separate .mat files that each contain all of the variables from Känzig's baseline model and 
+From there, Claude was used to convert an Excel file with the merged dataset into eight separate .mat files that each contain all of the variables from Känzig's baseline model and 
 one of the eight variables used in the extension. The rest of the analysis is completed in Matlab and the codes can be found in within the Kaenzig_replication 2 folder in the code folder. 
 Each code and what it produces is listed below.
 
